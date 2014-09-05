@@ -156,7 +156,7 @@ gaming \textbullet{} scripting
 \location{April 2014 - August 2014 | North York, ON}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Enhanced robustness of financial software used by major banking corporations worldwide through defect fixing
+\item Enhanced robustness of financial software used by major banking corporations worldwide by fixing database and UI defects
 \item Developed and documented a proprietary regression tester and browser automator that detected many software bugs
 \item Facilitated automation of tasks by writing scripts and encouraging their usage by company employees
 \item Contributed to software engineering expertise by adopting agile methodologies from requirements to successful deployment
