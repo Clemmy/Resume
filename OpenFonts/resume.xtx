@@ -87,7 +87,7 @@
 
 \section{Links} 
 Github:// \href{https://github.com/Cinnabon}{\custombold{Cinnabon}} \\
-LinkedIn://  \href{https://www.ca.linkedin.com/in/clementhoang/}{\custombold{clementhoang}} \\
+LinkedIn://  \href{https://www.ca.linkedin.Frameworksthoang/}{\custombold{clementhoang}} \\
 Blog:// \href{https://www.blog.clementhoang.net}{\custombold{clementhoang}}
 \sectionsep
 
@@ -97,13 +97,19 @@ Blog:// \href{https://www.blog.clementhoang.net}{\custombold{clementhoang}}
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} JavaScript \textbullet{} Matlab \\
-OCaml \textbullet{} Python \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+\location{Languages:}
+C\# \textbullet{} Bash \textbullet{} HTML \textbullet{} Javascript \\
+CSS \textbullet{} Python \textbullet{} C \textbullet{} C++ \textbullet{} CSS \\ 
+MySQL \textbullet{} Microsoft SQL Server \\
+Java \textbullet{} PHP \textbullet{} Ruby \\
+\location{Technologies:}
+ASP.NET MVC \textbullet{} Ruby on Rails \\
+.NET (WPF) \textbullet{} jQuery \textbullet{} IIS \\
+Android \textbullet{} XML \textbullet{} Json \textbullet{} Git \textbullet{} TFS \\
+\location{Tools:}
+Visual Studio \textbullet{} Blend \textbullet{} Eclipse \\
+Linux \textbullet{} Shell \textbullet{} Sublime Text
+
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -111,14 +117,6 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-\sectionsep
-
 \subsection{Undergraduate}
 Information Retrieval \\
 Operating Systems \\
@@ -183,10 +181,10 @@ gaming \textbullet{} scripting
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
+%     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
+\section{Projects}
 \runsubsection{Cornell Robot Learning Lab}
 \descript{| Head Undergrad Research}
 \location{Jan 2014 – Present | Ithaca, NY}
