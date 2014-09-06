@@ -100,15 +100,17 @@ Blog:// \href{https://www.blog.clementhoang.net}{\custombold{clementhoang}}
 \location{Languages:}
 C\# \textbullet{} Bash \textbullet{} HTML \textbullet{} Javascript \\
 CSS \textbullet{} Python \textbullet{} C \textbullet{} C++ \textbullet{} CSS \\ 
-MySQL \textbullet{} Microsoft SQL Server \\
-Java \textbullet{} PHP \textbullet{} Ruby \\
+Java \textbullet{} PHP \textbullet{} Ruby \textbullet{} MySQL \\
+T-SQL \\
 \location{Technologies:}
 ASP.NET MVC \textbullet{} Ruby on Rails \\
 .NET (WPF) \textbullet{} jQuery \textbullet{} IIS \\
-Android \textbullet{} XML \textbullet{} Json \textbullet{} Git \textbullet{} TFS \\
+Android \textbullet{} XML \textbullet{} Json \textbullet{} Git \\
+TFS \textbullet{} SignalR \\
 \location{Tools:}
 Visual Studio \textbullet{} Blend \textbullet{} Eclipse \\
-Linux \textbullet{} Shell \textbullet{} Sublime Text
+Linux \textbullet{} Shell \textbullet{} Sublime Text \\
+Microsoft SQL Server
 
 \sectionsep
 
@@ -169,20 +171,23 @@ gaming \textbullet{} scripting
 
 \section{Projects}
 
+\runsubsection{MSDB}
+\location{| Sept 2014 – Present}
+Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
+\sectionsep
+
 \runsubsection{Personal Blog}
 \location{| Aug 2014 – Present}
 Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  Publication submitted.
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
+\runsubsection{Browser Automation UI Tool}
+\location{| May 2014 – Sept 2014}
 Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
+\runsubsection{BCQueue}
+\location{Jul 2013 – Oct 2013}
 Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
 \sectionsep
 
