@@ -195,7 +195,7 @@ Built an Android application that performs a variety of operations on matrices. 
 \sectionsep
 
 \runsubsection{BCQueue}
-\location{Jul 2013 – Oct 2013}
+\location{| Jul 2013 – Oct 2013}
 Worked with a designer to create a fully featured badminton club management program for Windows that allows club managers to effectively organize court usage and manager club members. Developed using an MVVM paradigm to improve workflow with designer. Implemented key features such as the player databank, asynchronous court timers, a real-time queuing system, and parts of the user interface. Used WPF, C\#, .NET 4.0, XAML, Blend
 \sectionsep
 
