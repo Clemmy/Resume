@@ -68,3 +68,11 @@
 % Bullet Lists with fewer gaps command
 \newenvironment{tightemize}{\vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}{\end{itemize}\vspace{-\topsep}}
 
+% Personal Tweaks
+%\defaultfontfeatures{ Path = fonts/fontawesome/ }
+
+\usepackage{fontawesome}
+\newfontfamily{\FA}{FontAwesome}
+%\fontspec{FontAwesome}[Path = fonts/fontawesome/]
+%\newfontfamily{\FA}{FontAwesome}
+

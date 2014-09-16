@@ -86,9 +86,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Github:// \href{https://github.com/Cinnabon}{\custombold{Cinnabon}} \\
-LinkedIn://  \href{https://www.ca.linkedin.Frameworksthoang/}{\custombold{clementhoang}} \\
-Blog:// \href{https://www.blog.clementhoang.net}{\custombold{clementhoang}}
+% \href{https://github.com/Cinnabon}{\faGithub\ swaycz}
+\href{https://github.com/Cinnabon}{\custombold{https://github.com/Cinnabon}} \\
+\href{http://ca.linkedin.com/in/clementhoang/}{\custombold{http://ca.linkedin.com/in/clementhoang/}} \\
+\href{https://www.blog.clementhoang.net}{\custombold{https://www.blog.clementhoang.net}}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -101,12 +102,12 @@ Blog:// \href{https://www.blog.clementhoang.net}{\custombold{clementhoang}}
 C\# \textbullet{} Bash \textbullet{} HTML \textbullet{} Javascript \\
 CSS \textbullet{} Python \textbullet{} C \textbullet{} C++ \textbullet{} CSS \\ 
 Java \textbullet{} PHP \textbullet{} Ruby \textbullet{} MySQL \\
-T-SQL \\
+T-SQL \textbullet{} R \\
 \location{Technologies:}
 ASP.NET MVC \textbullet{} Ruby on Rails \\
 .NET (WPF) \textbullet{} jQuery \textbullet{} IIS \\
 Android \textbullet{} XML \textbullet{} Json \textbullet{} Git \\
-TFS \textbullet{} SignalR \\
+TFS \textbullet{} SignalR \textbullet{} MongoDB \\
 \location{Tools:}
 Visual Studio \textbullet{} Blend \textbullet{} Eclipse \\
 Linux \textbullet{} Shell \textbullet{} Sublime Text \\
@@ -120,14 +121,20 @@ Microsoft SQL Server
 
 \section{Coursework}
 \subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst) }}} \\
-Unix Tools and Scripting \\
+Programming Principles \\
+Data Abstraction and Implementation \\
+Logic and Computation \\
+Digital Computers \\
+Foundations of Sequential Programs \\
+Statistics for Software Engineering \\
 \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LANGUAGES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Languages}
+English \textbullet{} Cantonese
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     INTERESTS
@@ -135,7 +142,8 @@ Unix Tools and Scripting \\
 
 \section{Interests}
 badminton \textbullet{} food \textbullet{} anime \textbullet{} \\
-gaming \textbullet{} scripting
+gaming \textbullet{} scripting \textbullet{} manga \\
+table tennis
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -171,24 +179,24 @@ gaming \textbullet{} scripting
 
 \section{Projects}
 
-\runsubsection{MSDB}
-\location{| Sept 2014 – Present}
-Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
-\sectionsep
-
 \runsubsection{Personal Blog}
 \location{| Aug 2014 – Present}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  Publication submitted.
+Created a responsive and mobile-friendly personal blog that is hosted on GitHub Pages. The blog is made of static pages generated with Jekyll, and uses GitHub as a CMS. Used Jekyll, Liquid, HTML, CSS, RedCarpet Markdown, Git.
 \sectionsep
 
 \runsubsection{Browser Automation UI Tool}
 \location{| May 2014 – Sept 2014}
-Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
+Built a fully-featured regression testing suite that performs customizable regression testing for one of the world's largest financial technology company. The browser automation tool uses browser actions to simulate user functionality, and the configuration interface was deployed in the internal cloud. A lightweight XML database was also implemented in order to store different testing profiles among other keys. Also, the usage instructions and key modules of the design were documented using Markdown. Used ASP.NET MVC 5, Selenium WebDriver, C\#, Twitter Bootstrap, Markdown
+\sectionsep
+
+\runsubsection{Matrix Tools}
+\location{| Oct 2013 - Sept 2013}
+Built an Android application that performs a variety of operations on matrices. Developed requirements and led a small team in the hackathon through the development process. Implemented key features such as matrix multiplication, inversion, and row reduction. Used Java, Android API, XML.
 \sectionsep
 
 \runsubsection{BCQueue}
 \location{Jul 2013 – Oct 2013}
-Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
+Worked with a designer to create a fully featured badminton club management program for Windows that allows club managers to effectively organize court usage and manager club members. Developed using an MVVM paradigm to improve workflow with designer. Implemented key features such as the player databank, asynchronous court timers, a real-time queuing system, and parts of the user interface. Used WPF, C\#, .NET 4.0, XAML, Blend
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
