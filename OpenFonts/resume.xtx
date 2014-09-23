@@ -100,6 +100,7 @@
 \subsection{Programming}
 \location{Currently Learning:}
 Node.js \textbullet{} Ruby on Rails \\
+Assembly (Thumb, MIPs)
 
 \location{Languages:}
 C\# \textbullet{} Bash \textbullet{} HTML \textbullet{} Javascript \\
@@ -148,7 +149,7 @@ English \textbullet{} Cantonese
 \section{Interests}
 badminton \textbullet{} food \textbullet{} anime \textbullet{} \\
 gaming \textbullet{} scripting \textbullet{} manga \\
-table tennis
+table tennis \textbullet{} hackathons
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -184,19 +185,19 @@ table tennis
 
 \section{Projects}
 
+\runsubsection{Favors}
+\location{| Sept 2014 - Present}
+Built a social experiment to standardize the value of a favour for Hack The North. Favors is an application on the Android platform that allows Facebook users to exchange favours with one another. Worked with a team throughout the development process. Used Java, Android API, Python, Flask framework, Facebook SDK for Android, MySQL.
+\sectionsep
+
 \runsubsection{Personal Blog}
 \location{| Aug 2014 – Present}
 Created a responsive and mobile-friendly personal blog that is hosted on GitHub Pages. The blog is made of static pages generated with Jekyll, and uses GitHub as a CMS. Used Jekyll, Liquid, HTML, CSS, RedCarpet Markdown, Git.
 \sectionsep
 
-\runsubsection{Browser Automation UI Tool}
+\runsubsection{Browser UI Automation Tool}
 \location{| May 2014 – Sept 2014}
 Built a fully-featured regression testing suite that performs customizable regression testing for one of the world's largest financial technology company. The browser automation tool uses browser actions to simulate user functionality, and the configuration interface was deployed in the internal cloud. A lightweight XML database was also implemented in order to store different testing profiles among other keys. Also, the usage instructions and key modules of the design were documented using Markdown. Used ASP.NET MVC 5, Selenium WebDriver, C\#, Twitter Bootstrap, Markdown
-\sectionsep
-
-\runsubsection{Matrix Tools}
-\location{| Oct 2013 - Sept 2013}
-Built an Android application that performs a variety of operations on matrices. Developed requirements and led a small team in the hackathon through the development process. Implemented key features such as matrix multiplication, inversion, and row reduction. Used Java, Android API, XML.
 \sectionsep
 
 \runsubsection{BCQueue}
