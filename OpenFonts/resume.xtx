@@ -98,16 +98,21 @@
 
 \section{Skills}
 \subsection{Programming}
+\location{Currently Learning:}
+Node.js \textbullet{} Ruby on Rails \\
+
 \location{Languages:}
 C\# \textbullet{} Bash \textbullet{} HTML \textbullet{} Javascript \\
 CSS \textbullet{} Python \textbullet{} C \textbullet{} C++ \textbullet{} CSS \\ 
 Java \textbullet{} PHP \textbullet{} Ruby \textbullet{} MySQL \\
 T-SQL \textbullet{} R \\
+
 \location{Technologies:}
-ASP.NET MVC \textbullet{} Ruby on Rails \\
+ASP.NET MVC \textbullet{} SignalR \textbullet{} MongoDB \\
 .NET (WPF) \textbullet{} jQuery \textbullet{} IIS \\
 Android \textbullet{} XML \textbullet{} Json \textbullet{} Git \\
-TFS \textbullet{} SignalR \textbullet{} MongoDB \\
+TFS \\
+
 \location{Tools:}
 Visual Studio \textbullet{} Blend \textbullet{} Eclipse \\
 Linux \textbullet{} Shell \textbullet{} Sublime Text \\
