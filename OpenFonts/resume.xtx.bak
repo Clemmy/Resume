@@ -111,8 +111,8 @@ T-SQL \textbullet{} R \\
 \location{Technologies:}
 ASP.NET MVC \textbullet{} SignalR \textbullet{} MongoDB \\
 .NET (WPF) \textbullet{} jQuery \textbullet{} IIS \\
-Apache \textbullet{} Android \textbullet{} XML \textbullet{} Json \\
-Git \textbullet{} TFS \\
+Android \textbullet{} XML \textbullet{} Json \textbullet{} Git \\
+TFS \\
 
 \location{Tools:}
 Visual Studio \textbullet{} Blend \textbullet{} Eclipse \\
@@ -147,10 +147,9 @@ English \textbullet{} Cantonese
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Interests}
-badminton \textbullet{} food \textbullet{} anime \\
+badminton \textbullet{} food \textbullet{} anime \textbullet{} \\
 gaming \textbullet{} scripting \textbullet{} manga \\
-table tennis \textbullet{} hackathons \\
-bubble tea
+table tennis \textbullet{} hackathons
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
