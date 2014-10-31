@@ -19,8 +19,8 @@
 \usepackage{fontspec,xltxtra,xunicode}
 
 % Color definitions
-\definecolor{date}{HTML}{666666} 
-\definecolor{primary}{HTML}{2b2b2b} 
+\definecolor{date}{HTML}{666666}
+\definecolor{primary}{HTML}{2b2b2b}
 \definecolor{headings}{HTML}{6A6A6A}
 \definecolor{subheadings}{HTML}{333333}
 
@@ -34,7 +34,7 @@
 \newcommand{\namesection}[3]{
 	\centering{
 		\sffamily
-		\fontspec[Path = fonts/lato/]{Lato-Hai}\fontsize{40pt}{10cm}\selectfont #1 
+		\fontspec[Path = fonts/lato/]{Lato-Hai}\fontsize{40pt}{10cm}\selectfont #1
 		\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #2
 	} \\
 	\vspace{5pt}
@@ -48,13 +48,16 @@
 \titleformat{\section}{\color{headings}
 \scshape\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{16pt}{24pt}\selectfont \raggedright\uppercase}{} {0em}{}
 
-% Subeadings command
+% Subsection command
 \titleformat{\subsection}{\color{subheadings}
 \fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase}{}{0em}{}
 \titlespacing{\subsection}{0pt}{\parskip}{-\parskip}
 \titlespacing{\subsubsection}{0pt}{\parskip}{-\parskip}
 \newcommand{\runsubsection}[1]{\color{subheadings}
 \fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase {#1} \normalfont}
+
+% ListTechnologies command
+\newcommand{\listtech}[1]{\color{primary}\raggedright\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{8pt}{10pt}\selectfont {#1\\} \normalfont}
 
 % Descriptors command
 \newcommand{\descript}[1]{\color{subheadings}\raggedright\scshape\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont {#1 \\} \normalfont}
@@ -75,4 +78,3 @@
 \newfontfamily{\FA}{FontAwesome}
 %\fontspec{FontAwesome}[Path = fonts/fontawesome/]
 %\newfontfamily{\FA}{FontAwesome}
-

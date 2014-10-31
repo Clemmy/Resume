@@ -175,9 +175,9 @@ bubble tea
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Enhanced robustness of financial software used by major banking corporations worldwide by fixing database and UI defects
-\item Developed and documented a proprietary regression tester and browser automator that detected many software bugs
-\item Facilitated automation of tasks by writing scripts and encouraging their usage by company employees
-\item Contributed to software engineering expertise by adopting agile methodologies from requirements to successful deployment
+\item Programmed backend and frontend of a software configuration interface using ASP.NET MVC and SignalR
+\item Developed a proprietary regression tester and browser automator that detected software errors during continuous integration using Selenium WebDriver and C\#
+\item Automated daily tasks for server updates, builds, and mainteance by writing Batch and Powershell scripts
 \end{tightemize}
 \sectionsep
 
@@ -189,22 +189,35 @@ bubble tea
 
 \runsubsection{Favors}
 \location{| Sept 2014 - Present}
-Built a social experiment to standardize the value of a favour for Hack The North. Favors is an application on the Android platform that allows Facebook users to exchange favours with one another. Worked with a team throughout the development process. Used Java, Android API, Python, Flask framework, Facebook SDK for Android, MySQL.
+Built a social experiment to standardize the value of a favour for Hack The North. Favors is an application on the Android platform that allows Facebook users to exchange favours with one another. Worked with a team throughout the development process. \\
+\listtech{Used: Java, Android API, Python, Flask framework, Facebook SDK for Android, MySQL.}
 \sectionsep
 
 \runsubsection{Personal Blog}
 \location{| Aug 2014 – Present}
-Created a responsive and mobile-friendly personal blog that is hosted on GitHub Pages. The blog is made of static pages generated with Jekyll, and uses GitHub as a CMS. Used Jekyll, Liquid, HTML, CSS, RedCarpet Markdown, Git.
+Created a responsive and mobile-friendly personal blog that is hosted on GitHub Pages. The blog is made of static pages generated with Jekyll, and uses GitHub as a CMS. \\
+\listtech{Used: Jekyll, Liquid, HTML, CSS, RedCarpet Markdown, Git.}
 \sectionsep
 
 \runsubsection{Browser UI Automation Tool}
 \location{| May 2014 – Sept 2014}
-Built a fully-featured regression testing suite that performs customizable regression testing for one of the world's largest financial technology company. The browser automation tool uses browser actions to simulate user functionality, and the configuration interface was deployed in the internal cloud. A lightweight XML database was also implemented in order to store different testing profiles among other keys. Also, the usage instructions and key modules of the design were documented using Markdown. Used ASP.NET MVC 5, Selenium WebDriver, C\#, Twitter Bootstrap, Markdown
+Built a fully-featured regression testing suite that performs customizable regression testing for one of the world's largest financial technology company. The browser automation tool uses browser actions to simulate user functionality.
+\begin{tightemize}
+\item Eliminated race conditions and multithreading issues on browser tests
+\item Implemented a lightweight XML database to improve performance
+\item Documented the usage instructions and key modules of the design in Markdown. \\
+\end{tightemize}
+\listtech{Used: ASP.NET MVC 5, Selenium WebDriver, C\#, Twitter Bootstrap, Markdown.}
 \sectionsep
 
 \runsubsection{BCQueue}
 \location{| Jul 2013 – Oct 2013}
-Worked with a designer to create a fully featured badminton club management program for Windows that allows club managers to effectively organize court usage and manager club members. Developed using an MVVM paradigm to improve workflow with designer. Implemented key features such as the player databank, asynchronous court timers, a real-time queuing system, and parts of the user interface. Used WPF, C\#, .NET 4.0, XAML, Blend
+Worked with a designer to create a fully featured badminton club management program for Windows that allows club managers to effectively organize court usage and manager club members.
+\begin{tightemize}
+\item Improved workflow by using MVVM paradigm
+\item Implemented key features such as the player databank, asynchronous court timers, a real-time queuing system, and parts of the user interface. \\
+\end{tightemize}
+\listtech{Used: WPF, C\#, .NET 4.0, XAML, Blend.}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
