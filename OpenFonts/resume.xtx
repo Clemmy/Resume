@@ -15,16 +15,16 @@
 % default. If you get compilation errors saying a font is missing, find the line
 % on which the font is used and either change it to a font included with your
 % operating system or comment the line out to use the default font.
-% 
+%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% 
+%
 % TODO:
 % 1. Integrate biber/bibtex for article citation under publications.
 % 2. Figure out a smoother way for the document to flow onto the next page.
 % 3. Add styling information for a "Projects/Hacks" section.
 % 4. Add location/address information
 % 5. Merge OpenFont and MacFonts as a single sty with options.
-% 
+%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % CHANGELOG:
@@ -68,13 +68,13 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.33\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Education} 
+\section{Education}
 
 \subsection{University of Waterloo}
 \descript{Candidate for Bachelor of Software Engineering}
@@ -85,7 +85,7 @@
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Links} 
+\section{Links}
 % \href{https://github.com/Cinnabon}{\faGithub\ swaycz}
 \href{https://github.com/Clemmy}{\custombold{https://github.com/Clemmy}} \\
 \href{http://ca.linkedin.com/in/clementhoang/}{\custombold{http://ca.linkedin.com/in/clementhoang/}} \\
@@ -96,28 +96,29 @@
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Skills}
-\subsection{Programming}
-\location{Currently Learning:}
-Node.js \textbullet{} Ruby on Rails \\
-Assembly (Thumb, MIPs)
+\section{Skills and Expertise}
 
-\location{Languages:}
-C\# \textbullet{} Bash \textbullet{} HTML \textbullet{} Javascript \\
-CSS \textbullet{} Python \textbullet{} C \textbullet{} C++ \textbullet{} CSS \\ 
-Java \textbullet{} PHP \textbullet{} Ruby \textbullet{} MySQL \\
-T-SQL \textbullet{} R \\
+\location{Frontend Web Development}
+HTML \textbullet{} CSS \textbullet{} Javascript \textbullet{} jQuery \\
 
-\location{Technologies:}
-ASP.NET MVC \textbullet{} SignalR \textbullet{} MongoDB \\
-.NET (WPF) \textbullet{} jQuery \textbullet{} IIS \\
-Apache \textbullet{} Android \textbullet{} XML \textbullet{} Json \\
-Git \textbullet{} TFS \\
+\location{Backend Web Development}
+Node.js \textbullet{} PHP \textbullet{} ASP.NET MVC \\
+MySQL \textbullet{} MongoDB \\
+
+\location{Programming and Development}
+C\# \textbullet{} Java \textbullet{} C++ \textbullet{} C \\
+Python \textbullet{} Android \\
+
+\location{Scripting Languages}
+Bash \textbullet{} Windows Shell \\
+
+\location{Version Control}
+Git \textbullet{} Team Foundation Server \\
 
 \location{Tools:}
 Visual Studio \textbullet{} Blend \textbullet{} Eclipse \\
-Linux \textbullet{} Shell \textbullet{} Sublime Text \\
-Microsoft SQL Server
+Linux \textbullet{} Vim \textbullet{} Sublime Text \\
+Atom \textbullet{} IIS \textbullet{} Apache
 
 \sectionsep
 
@@ -158,9 +159,9 @@ bubble tea
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\end{minipage} 
+\end{minipage}
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.66\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -210,7 +211,7 @@ Worked with a designer to create a fully featured badminton club management prog
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
+\section{Awards}
 \begin{tabular}{rll}
 2014	& Dean's List & University of Waterloo\\
 2013	& President's Scholarship & University of Waterloo\\
@@ -219,5 +220,5 @@ Worked with a designer to create a fully featured badminton club management prog
 \end{tabular}
 \sectionsep
 
-\end{minipage} 
+\end{minipage}
 \end{document}  \documentclass[]{article}
