@@ -65,6 +65,9 @@
 % Location command
 \newcommand{\location}[1]{\color{headings}\raggedright\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{10pt}{12pt}\selectfont {#1\\} \normalfont}
 
+% Skill Subsection command
+\newcommand{\skillsub}[1]{\color{primary}\raggedright\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{10pt}{12pt}\selectfont {#1\\} \normalfont}
+
 % Section seperators command
 \newcommand{\sectionsep}[0]{\vspace{8pt}}
 

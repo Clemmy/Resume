@@ -98,24 +98,24 @@
 
 \section{Skills and Expertise}
 
-\location{Frontend Web Development}
+\skillsub{Frontend Web Development}
 HTML \textbullet{} CSS \textbullet{} Javascript \textbullet{} jQuery \\
 
-\location{Backend Web Development}
+\skillsub{Backend Web Development}
 Node.js \textbullet{} PHP \textbullet{} ASP.NET MVC \\
 MySQL \textbullet{} MongoDB \\
 
-\location{Programming and Development}
+\skillsub{Programming and Development}
 C\# \textbullet{} Java \textbullet{} C++ \textbullet{} C \\
 Python \textbullet{} Android \\
 
-\location{Scripting Languages}
+\skillsub{Scripting Languages}
 Bash \textbullet{} Windows Shell \\
 
-\location{Version Control}
+\skillsub{Version Control}
 Git \textbullet{} Team Foundation Server \\
 
-\location{Tools:}
+\skillsub{Tools}
 Visual Studio \textbullet{} Blend \textbullet{} Eclipse \\
 Linux \textbullet{} Vim \textbullet{} Sublime Text \\
 Atom \textbullet{} IIS \textbullet{} Apache
