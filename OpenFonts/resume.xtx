@@ -71,6 +71,10 @@
 \begin{minipage}[t]{0.33\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     CONTACT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -120,20 +124,6 @@ Visual Studio \textbullet{} Blend \textbullet{} Eclipse \\
 Linux \textbullet{} Vim \textbullet{} Sublime Text \\
 Atom \textbullet{} IIS \textbullet{} Apache
 
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-\subsection{Undergraduate}
-Programming Principles \\
-Data Abstraction and Implementation \\
-Logic and Computation \\
-Digital Computers \\
-Foundations of Sequential Programs \\
-Statistics for Software Engineering \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
