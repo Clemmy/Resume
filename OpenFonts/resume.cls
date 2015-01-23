@@ -34,7 +34,7 @@
 \newcommand{\namesection}[3]{
 	\centering{
 		\sffamily
-		\fontspec[Path = fonts/lato/]{Lato-Hai}\fontsize{40pt}{10cm}\selectfont #1
+		\fontspec[Path = fonts/lato/]{Lato-Hai}\fontsize{50pt}{10cm}\selectfont #1
 		\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #2
 	} \\
 	\vspace{5pt}
@@ -74,10 +74,9 @@
 % Bullet Lists with fewer gaps command
 \newenvironment{tightemize}{\vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}{\end{itemize}\vspace{-\topsep}}
 
-% Personal Tweaks
-%\defaultfontfeatures{ Path = fonts/fontawesome/ }
+% Personal Tweaks (TODO: This part is not working)
+%\usepackage{fontspec}
 
-\usepackage{fontawesome}
-\newfontfamily{\FA}{FontAwesome}
-%\fontspec{FontAwesome}[Path = fonts/fontawesome/]
-%\newfontfamily{\FA}{FontAwesome}
+%\defaultfontfeatures{Path = fonts/fontawesome }
+%\usepackage{fontawesome}
+%\newfontfamily{\FA}{FontAwesome Regular}

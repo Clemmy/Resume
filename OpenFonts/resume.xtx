@@ -57,10 +57,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\namesection{Clement}{Hoang}{ 2A Software Engineer \\
-\urlstyle{same}\url{http://clementhoang.net} \\
-\href{mailto:c8hoang@uwaterloo.ca}{c8hoang@uwaterloo.ca} | 647.871.8336
-}
+\namesection{Clement}{Hoang}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -73,6 +70,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     CONTACT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\href{https://github.com/Cinnabon}{\faGithub\ swaycz}
+
+\section{Contact}
+\custombold{647.871.8336} \\
+\href{c8hoang@uwaterloo.ca}{\custombold{c8hoang@uwaterloo.ca}} \\
+\href{clementhoang.net}{\custombold{clementhoang.net}} \\
+\href{https://github.com/Clemmy}{\custombold{https://github.com/Clemmy}} \\
+\href{http://ca.linkedin.com/in/clementhoang/}{\custombold{http://ca.linkedin.com/in/clementhoang/}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -86,24 +91,14 @@
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links}
-% \href{https://github.com/Cinnabon}{\faGithub\ swaycz}
-\href{https://github.com/Clemmy}{\custombold{https://github.com/Clemmy}} \\
-\href{http://ca.linkedin.com/in/clementhoang/}{\custombold{http://ca.linkedin.com/in/clementhoang/}} \\
-\href{https://www.blog.clementhoang.net}{\custombold{https://www.blog.clementhoang.net}}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills and Expertise}
 
 \skillsub{Frontend Web Development}
-HTML \textbullet{} CSS \textbullet{} Javascript \textbullet{} jQuery \\
+Angular.js \textbullet{} Bootstrap \textbullet{} HTML\\
+CSS \textbullet{} Javascript \textbullet{} jQuery \\
 
 \skillsub{Backend Web Development}
 Node.js \textbullet{} PHP \textbullet{} ASP.NET MVC \\
@@ -132,6 +127,17 @@ Atom \textbullet{} IIS \textbullet{} Apache
 
 \section{Languages}
 English \textbullet{} Cantonese
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Awards}
+2014 Dean's List \\
+2013 President's Scholarship \\
+2011 HB Blizzard Computer Science Award \\
+2010 Top 64 in Junior CCC Stage 1 \\
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     INTERESTS
@@ -210,18 +216,7 @@ Worked with a designer to create a fully featured badminton club management prog
 \listtech{Used: WPF, C\#, .NET 4.0, XAML, Blend.}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards}
-\begin{tabular}{rll}
-2014	& Dean's List & University of Waterloo\\
-2013	& President's Scholarship & University of Waterloo\\
-2011	& HB Blizzard Computer Science Award & Harold M. Brathwaite S.S.\\
-2010	& Top 64 in Junior CCC Stage 1 & University of Waterloo\\
-\end{tabular}
-\sectionsep
 
 \end{minipage}
 \end{document}  \documentclass[]{article}
