@@ -165,10 +165,19 @@ bubble tea
 
 \section{Experience}
 
+\runsubsection{Ten Thousand Coffees}
+\descript{| Software Developer }
+\location{January 2015 - now | Toronto, ON}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Implemented Mandrill API calls to send transactional and digest emails to users via templating, with analytics tracking by Segment.io
+\end{tightemize}
+\sectionsep
+
 \runsubsection{Objectifi}
 \descript{| .NET Software Developer }
 \location{April 2014 - August 2014 | North York, ON}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Enhanced robustness of financial software used by major banking corporations worldwide by fixing database and UI defects
 \item Programmed backend and frontend of a software configuration interface using ASP.NET MVC and SignalR
