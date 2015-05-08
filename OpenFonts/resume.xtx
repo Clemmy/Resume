@@ -192,6 +192,14 @@ bubble tea
 
 \section{Projects}
 
+\runsubsection{Hearthnet}
+\location{| Jan 2015 - Present}
+Built a social platform to connect Hearthstone players for UofTHacks. Hearthnet features user authentication, keyword search, and beautiful design. \\
+\begin{tightemize}
+\item Designed and reworked schema to support the ever-growing requirements of the application
+\item Made the site aesthetically pleasing and responsive using Sass with Bourbon and Neat. \\
+\end{tightemize}
+\listtech{Used: Meteor, Sass, Bourbon, Neat, MongoDB.}
 \sectionsep
 
 \runsubsection{Browser UI Automation Tool}
