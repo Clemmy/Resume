@@ -192,16 +192,6 @@ bubble tea
 
 \section{Projects}
 
-\runsubsection{Favors}
-\location{| Sept 2014 - Present}
-Built a social experiment to standardize the value of a favour for Hack The North. Favors is an application on the Android platform that allows Facebook users to exchange favours with one another. Worked with a team throughout the development process. \\
-\listtech{Used: Java, Android API, Python, Flask framework, Facebook SDK for Android, MySQL.}
-\sectionsep
-
-\runsubsection{Personal Blog}
-\location{| Aug 2014 – Present}
-Created a responsive and mobile-friendly personal blog that is hosted on GitHub Pages. The blog is made of static pages generated with Jekyll, and uses GitHub as a CMS. \\
-\listtech{Used: Jekyll, Liquid, HTML, CSS, RedCarpet Markdown, Git.}
 \sectionsep
 
 \runsubsection{Browser UI Automation Tool}
