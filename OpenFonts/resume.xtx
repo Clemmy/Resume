@@ -171,6 +171,10 @@ bubble tea
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Implemented Mandrill API calls to send transactional and digest emails to users via templating, with analytics tracking by Segment.io
+\item Switched email verification architecture from manually generated bcrypt verification tokens to JWT to make it stateless
+\item Integrated an open source scheduling system into the platform to improve user experience
+\item Implemented group messaging feature by redesigning a large portion of the schema and migrating the current data to use the new schema
+\item Added internationalization support for the entire application with angular-translate
 \end{tightemize}
 \sectionsep
 
